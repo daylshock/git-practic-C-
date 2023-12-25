@@ -1,0 +1,6 @@
+﻿  CommandLineArguments.cpp
+C:\Users\Долбаеб\source\repos\Project_5\Project_5\CommandLineArguments.cpp(14,52): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Долбаеб\source\repos\Project_5\Project_5\CommandLineArguments.cpp(15,61): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Долбаеб\source\repos\Project_5\Project_5\CommandLineArguments.cpp(16,61): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Долбаеб\source\repos\Project_5\Project_5\CommandLineArguments.cpp(19,17): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Project_5.vcxproj -> C:\Users\Долбаеб\source\repos\Project_5\x64\Debug\Project_5.exe
